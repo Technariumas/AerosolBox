@@ -10,3 +10,6 @@ The box design is based on Dr. Yung-Lai’s Aerosol Box (https://sites.google.co
 v.1.2 is still in production as of March 29th 2020, this is a preliminary design. Use at your own risk.
 
 v.1.1 (https://github.com/Technariumas/AerosolBox/blob/master/AerosolBox-slanted-5mm.dxf) features a slanted top, glued from several separate pieces of 5mm acrylic. The box would be more rigid if the sides are made from 8mm thick sheet. 
+
+v.1.1 in testing:
+![test](https://raw.githubusercontent.com/Technariumas/AerosolBox/master/img_20200328_133408_0.jpg)
